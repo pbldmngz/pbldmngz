@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning django, gymnastics and japanese 🤣
 - 👯 I'm interested in collaborating on new open source projects (I just need to find the time)
 - 🥅 2021 Goals: Increase my knowledge in front-end and quit my grayscale thinking
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I actually like playing FPS, but in order to properly work I limited myself to weekends 😫
 
 ---
 

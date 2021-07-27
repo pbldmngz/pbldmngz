@@ -13,7 +13,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
-<img align="left" alt="Python Tkinter" width="32px" src="https://wingware.com/images/large-feather.png" />
 <img align="left" alt="Python Flask" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />
 <img align="left" alt="Python Django" width="32px" src="https://user-images.githubusercontent.com/32307513/127231165-bb2bf4d0-64b9-4bb3-b9ef-ee71f85d7c31.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

@@ -1,11 +1,11 @@
 ## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
 
-### I enjoy learning new things, maybe too much 😅
+### This is me (last edition)
 
 - 👹 I just launched this page: [menu-maker.com][menumaker]!
 - 🌱 I’m currently learning java, gymnastics and japanese
 - 👯 I'm interested in collaborating on new open source projects (I just need to find the time)
-- 🥅 2021 Goals: Increase my knowledge in front-end and quit my grayscale thinking
+- 🥅 2021 Goals: Increase my knowledge in front-end and quit my grayscale color thinking
 - ⚡ Fun fact: I actually like playing FPS, but in order to properly work I limited myself to weekends 😫
 
 ---

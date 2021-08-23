@@ -19,7 +19,7 @@
 <img align="left" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/32307513/130500456-a0c84438-2a06-4926-8dc6-c0a98c587e0f.png" />
+<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/32307513/130500513-f3c54c12-61f1-48fd-933f-e8e1c6d478be.png" />
 <img align="left" alt="MongoDB" width="48px" src="https://user-images.githubusercontent.com/32307513/127231024-119b00a0-7ea9-47bb-a2ac-7249e6fdbe97.png" />
 <img align="left" alt="Firebase" width="48px" src="https://user-images.githubusercontent.com/32307513/127230877-99cc7083-a492-419e-8c43-2aa516ddffe6.png" />
 <img align="left" alt="MySQL" width="48px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />

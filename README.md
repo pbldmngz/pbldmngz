@@ -46,5 +46,5 @@
 ---
 
 [Anurag's GitHub stats link, if you are reading this, go check it!]: https://github.com/anuraghazra/github-readme-stats
-[website]: pablodominguez.net
+[website]: https://www.pablodominguez.net
 [linkedin]: https://www.linkedin.com/in/dominguezmedina

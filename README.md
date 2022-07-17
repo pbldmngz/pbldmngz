@@ -2,7 +2,7 @@
 
 ### This is me (last edition)
 
-- 👹 I just launched this page: [www.pablodominguez.net][My own website]!
+- 👹 I just launched this page: [My own website][website]!
 - 🌱 I’m currently learning cloud infraestructure with AWS
 
 ---
@@ -46,5 +46,5 @@
 ---
 
 [Anurag's GitHub stats link, if you are reading this, go check it!]: https://github.com/anuraghazra/github-readme-stats
-[menumaker]: https://menu-maker.com
+[website]: pablodominguez.net
 [linkedin]: https://www.linkedin.com/in/dominguezmedina

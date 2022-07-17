@@ -2,7 +2,7 @@
 
 ### This is me (last edition)
 
-- 👹 I just launched this page: [pablodoming.net][My own website]!
+- 👹 I just launched this page: [www.pablodominguez.net][My own website]!
 - 🌱 I’m currently learning cloud infraestructure with AWS
 
 ---

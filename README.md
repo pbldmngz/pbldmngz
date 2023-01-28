@@ -2,8 +2,8 @@
 
 ### This is me (last edition)
 
-- 👹 I just launched this page: [My own website][website]!
-- 🌱 I’m currently learning cloud infraestructure with AWS
+- 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
+- 🌱 Resurected my codewars repository and added it to my pins
 
 ---
 

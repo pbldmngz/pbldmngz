@@ -2,6 +2,7 @@
 
 ### This is me (last edition)
 
+- 👻 Created a Pokemon API consumer app in typescript just to have it as portfolio (most of my real projects are private repositories)
 - 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
 - 🌱 Resurected my codewars repository and added it to my pins
 

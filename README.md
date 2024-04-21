@@ -1,7 +1,7 @@
 ## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
 
 ### This is me (last edition)
-
+- 🤖 Developing a Japanese chatbot that analyzes and breaks down message meanings, toggles between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts display for known RTK Kanjis. This enhances learning by demonstrating the pronunciation and usage of RTK Kanjis you've learned.
 - 📠 Created an algorithm to send files from a computer with no wired or wireless options available to your local PC
 - 👻 Created a Pokemon API consumer app in typescript just to have it as portfolio (most of my real projects are private repositories)
 - 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)

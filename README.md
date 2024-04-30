@@ -3,7 +3,7 @@
 ### This is me (last edition)
 - 🤖 Developed a Japanese chatbot that analyzes and breaks down message meanings, toggles between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts display for known RTK Kanjis. This enhances learning by demonstrating the pronunciation and usage of RTK Kanjis you've learned. [Access through here.](https://rtkchat.vercel.app/)
 - 📠 Created an algorithm to send files from a computer with no wired or wireless options available to your local PC
-- 👻 Created a Pokemon API consumer app in typescript just to have it as portfolio (most of my real projects are private repositories). [Access through here.](https://pbldmngz.github.io/)
+- 👻 Created a Pokemon API consumer app in typescript just to have it as portfolio (most of my real projects are private repositories). [Access through here.](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/)
 - 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
 - 🧠 Solved a quite complicated task for an interview using nodes and links, created a way to visualize data by dates, order and time extension
 - 🌱 Resurected my codewars repository and added it to my pins

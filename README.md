@@ -1,7 +1,7 @@
 ## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
 
 ### This is what I've done (last edition)
-
+- 🈵 Utilities to create Furigana subtitles. [Check repository.](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby)
 - 🤖 Japanese chatbot that analyzes and breaks down message meanings, toggles between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts display for known RTK Kanjis. This enhances learning by demonstrating the pronunciation and usage of RTK Kanjis you've learned. [Access through here.](https://rtkchat.vercel.app/)
 - ⛏️​​ Minecraft mod meant to complement agility based mods. The faster you can run, the higher you jump, the more weight you carry, the slower you are. But if you are fast and heavy, you hit like a truck.
 - 📠 Small system to send files from a computer with no wired or wireless options available to your local PC

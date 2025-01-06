@@ -10,6 +10,9 @@
 - 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
 - 🧠 A quite complicated task for an interview using nodes and links, created a way to visualize data by dates, order and time extension
 - 🌱 Resurected my codewars repository and added it to my pins
+- 🍕 Created a concept of a Firebase React application that allows restorants to post their menus online, in a pretty decent responsive formatting, with the "admin view" being capable of controling the prices, categories, descriptions and visibilities of the items. Colors can be changed too. [Check it out.](https://github.com/pbldmngz/menu-maker)
+- 🎮 Python application to remote control a Twich streamer's computer by typing commands in the chat. The streamer could use it as a way to make viewers directly impact the gameplay. Doesn't work on anti-cheat enabled games.
+- 🤬 Fun web app that makes a goat scream each time you mention something blacklisted. [Stop cursing.](https://github.com/pbldmngz/chernobyl)
 
 ---
 

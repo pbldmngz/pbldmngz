@@ -1,7 +1,7 @@
 ## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
 
 ### This is what I've done (last edition)
-- 🈂️​ Application to learn the Hiragana and Katakana at the same time. Flashcard based. [Go to the app.](https://hiragana-katanaka.vercel.app)
+- 🈂️​ Application to learn the Hiragana and Katakana at the same time. Flashcard based. [Go to the app.](https://learnthekana.vercel.app)
 - 🎸 Application to explore guitar chords IN ANY TUNING and play with them in a virtual soundboard. [Check repository.](https://github.com/pbldmngz/any-tune-guitar-chords-playground)
 - 🈵 Utilities to create Furigana subtitles. [Check repository.](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby)
 - 🤖 Japanese chatbot that analyzes and breaks down message meanings, toggles between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts display for known RTK Kanjis. This enhances learning by demonstrating the pronunciation and usage of RTK Kanjis you've learned. [Access through here.](https://rtkchat.vercel.app/)

@@ -129,7 +129,8 @@
   <a href="https://www.linkedin.com/in/dominguezmedina"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/pbldmngz"><img src="https://img.shields.io/badge/Codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=white" /></a>
-  <a href="https://www.pablodominguez.net"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.youtube.com/@pablodm9"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <!-- <a href="https://www.pablodominguez.net"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=github" /></a> -->
   <a href="https://www.patreon.com/c/PabloDominguez"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff424d?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 </p>
 

@@ -1,85 +1,167 @@
-## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pablo%20Domínguez&fontSize=40&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Jack%20of%20All%20Trades&descAlignY=60" alt="banner"/>
+</p>
 
-### This is what I've done (last edition)
-
-- 🖼️ Create ASCII art and diagrams effortlessly. A simple tool for developers to
-  sketch mockups and communicate visually with AI.
-  [Try it out.](https://www.sketchtotext.com/)
-- 🈂️​ Application to learn the Hiragana and Katakana at the same time. Flashcard
-  based. [Go to the app.](https://learnthekana.vercel.app)
-- 🎸 Application to explore guitar chords IN ANY TUNING and play with them in a
-  virtual soundboard.
-  [Check repository.](https://github.com/pbldmngz/any-tune-guitar-chords-playground)
-- 🈵 Utilities to create Furigana subtitles.
-  [Check repository.](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby)
-- 🤖 Japanese chatbot that analyzes and breaks down message meanings, toggles
-  between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts
-  display for known RTK Kanjis. This enhances learning by demonstrating the
-  pronunciation and usage of RTK Kanjis you've learned.
-  [Access through here.](https://rtkchat.vercel.app/)
-- ⛏️​​ Minecraft mod meant to complement agility based mods. The faster you can
-  run, the higher you jump, the more weight you carry, the slower you are. But
-  if you are fast and heavy, you hit like a truck.
-- 📠 Small system to send files from a computer with no wired or wireless
-  options available to your local PC
-- 👻 Pokemon API consumer app in typescript just to have it as portfolio (most
-  of my real projects are private repositories).
-  [Access through here.](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/)
-- 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
-- 🧠 A quite complicated task for an interview using nodes and links, created a
-  way to visualize data by dates, order and time extension
-- 🌱 Resurected my codewars repository and added it to my pins
-- 🍕 Created a concept of a Firebase React application that allows restorants to
-  post their menus online, in a pretty decent responsive formatting, with the
-  "admin view" being capable of controling the prices, categories, descriptions
-  and visibilities of the items. Colors can be changed too.
-  [Check it out.](https://github.com/pbldmngz/menu-maker)
-- 🎮 Python application to remote control a Twich streamer's computer by typing
-  commands in the chat. The streamer could use it as a way to make viewers
-  directly impact the gameplay. Doesn't work on anti-cheat enabled games.
-- 🤬 Fun web app that makes a goat scream each time you mention something
-  blacklisted. [Stop cursing.](https://github.com/pbldmngz/chernobyl)
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://www.pablodominguez.net">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+I'm+Pablo+Domínguez;Fullstack+Developer;Jack+of+All+Trades;Always+Learning+New+Things"/>
+  </a>
+</p>
 
 ---
 
-### Languages and Tools:
+## 🚀 My projects
 
-<img align="left" alt="Python" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
-<img align="left" alt="Python Flask" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />
-<img align="left" alt="Python Django" width="48px" src="https://user-images.githubusercontent.com/32307513/127231165-bb2bf4d0-64b9-4bb3-b9ef-ee71f85d7c31.png" />
-<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/32307513/130500513-f3c54c12-61f1-48fd-933f-e8e1c6d478be.png" />
-<img align="left" alt="MongoDB" width="48px" src="https://user-images.githubusercontent.com/32307513/127231024-119b00a0-7ea9-47bb-a2ac-7249e6fdbe97.png" />
-<img align="left" alt="Firebase" width="48px" src="https://user-images.githubusercontent.com/32307513/127230877-99cc7083-a492-419e-8c43-2aa516ddffe6.png" />
-<img align="left" alt="MySQL" width="48px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
-<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
+<table>
+  <tr valign="top">
+    <td align="center" width="33%">
+      <a href="https://www.sketchtotext.com/">
+        <img src="https://img.shields.io/badge/ASCII%20Art%20Sketcher-LIVE-0078D4?style=for-the-badge&logo=github" />
+        <br />
+        <sub><b>sketchtotext.com</b></sub>
+      </a>
+      <br />
+      <sup>Create ASCII art and diagrams effortlessly. Sketch mockups and communicate visually with AI.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learnthekana.vercel.app">
+        <img src="https://img.shields.io/badge/Learn%20the%20Kana-LIVE-0078D4?style=for-the-badge&logo=vercel" />
+        <br />
+        <sub><b>Learn the Kana</b></sub>
+      </a>
+      <br />
+      <sup>Learn Hiragana and Katakana together with flashcards.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://rtkchat.vercel.app/">
+        <img src="https://img.shields.io/badge/RTK%20Chat-LIVE-0078D4?style=for-the-badge&logo=vercel" />
+        <br />
+        <sub><b>RTK Chat</b></sub>
+      </a>
+      <br />
+      <sup>Japanese chatbot for learning and analyzing Kanji and Hiragana.</sup>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td align="center" width="33%">
+      <a href="https://github.com/pbldmngz/any-tune-guitar-chords-playground">
+        <img src="https://img.shields.io/badge/Any%20Tune%20Guitar%20Chords-REPO-FF8800?style=for-the-badge&logo=github" />
+        <br />
+        <sub><b>Any Tune Guitar Chords</b></sub>
+      </a>
+      <br />
+      <sup>Explore guitar chords in any tuning and play with them in a virtual soundboard.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby">
+        <img src="https://img.shields.io/badge/Furigana%20Subtitles-REPO-FF8800?style=for-the-badge&logo=github" />
+        <br />
+        <sub><b>Furigana Subtitles</b></sub>
+      </a>
+      <br />
+      <sup>Utilities to create Furigana subtitles.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/pbldmngz/menu-maker">
+        <img src="https://img.shields.io/badge/Menu%20Maker-REPO-FF8800?style=for-the-badge&logo=firebase" />
+        <br />
+        <sub><b>Menu Maker</b></sub>
+      </a>
+      <br />
+      <sup>Firebase React app for restaurants to post and manage menus online.</sup>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Minecraft%20Agility%20Mod-CONCEPT-6c757d?style=for-the-badge&logo=minecraft" />
+        <br />
+        <sub><b>Minecraft Agility Mod</b></sub>
+      </a>
+      <br />
+      <sup>Mod to complement agility-based mods. Speed, weight, and power mechanics.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/File%20Sender-CONCEPT-6c757d?style=for-the-badge&logo=github" />
+        <br />
+        <sub><b>File Sender</b></sub>
+      </a>
+      <br />
+      <sup>Send files from computers with no network options to your local PC.</sup>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Twitch%20Remote%20Control-CONCEPT-6c757d?style=for-the-badge&logo=python" />
+        <br />
+        <sub><b>Twitch Remote Control</b></sub>
+      </a>
+      <br />
+      <sup>Remote control a Twitch streamer's computer via chat commands.</sup>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Connect with me:
+## 🛠️ Languages & Tools
 
-[<img align="left" alt="Pablo Domínguez | LinkedIn" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Pablo Domínguez Spotify Playing" />](https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs)
-[<img align="left" width="48px" src="https://user-images.githubusercontent.com/32307513/127232518-a3a326c5-3e5c-486e-a192-a27d8c351332.png" alt="Code Wars" />](https://www.codewars.com/users/pbldmngz)
-[<img align="right" src="https://www.codewars.com/users/pbldmngz/badges/large" alt="Code Wars" />](https://www.codewars.com/users/pbldmngz)
-
-<br />
-<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,react,java,mongodb,firebase,mysql,github" />
+</p>
 
 ---
 
-| GitHub Stats                                                                                                                                                                                |                                                                                                                                                                                                 Top Langs |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbldmngz&theme=algolia&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/pbldmngz) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbldmngz&theme=algolia&count_private=true&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+## 📊 GitHub Stats
+
+<div align="center">
+  <div class="stats-row">
+    <img src="https://streak-stats.demolab.com?user=pbldmngz&theme=algolia" alt="GitHub Streak" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbldmngz&theme=algolia&langs_count=6&layout=compact" alt="Top Langs" height="180"/>
+  </div>
+</div>
+
+<style>
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+.stats-row img {
+  max-width: 100%;
+  height: 180px;
+}
+@media (max-width: 700px) {
+  .stats-row {
+    flex-direction: column;
+    align-items: center;
+  }
+  .stats-row img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+</style>
 
 ---
 
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dominguezmedina"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/pbldmngz"><img src="https://img.shields.io/badge/Codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+  <a href="https://www.pablodominguez.net"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.patreon.com/c/PabloDominguez"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff424d?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+</p>
+
+---
+
+<!--
 [Anurag's GitHub stats link, if you are reading this, go check it!]: https://github.com/anuraghazra/github-readme-stats
 [website]: https://www.pablodominguez.net
 [linkedin]: https://www.linkedin.com/in/dominguezmedina
+-->

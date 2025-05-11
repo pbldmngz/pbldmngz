@@ -1,19 +1,44 @@
 ## Hi there, my name is Pablo Domínguez - [pbldmngz][linkedin] 👋
 
 ### This is what I've done (last edition)
-- 🈂️​ Application to learn the Hiragana and Katakana at the same time. Flashcard based. [Go to the app.](https://learnthekana.vercel.app)
-- 🎸 Application to explore guitar chords IN ANY TUNING and play with them in a virtual soundboard. [Check repository.](https://github.com/pbldmngz/any-tune-guitar-chords-playground)
-- 🈵 Utilities to create Furigana subtitles. [Check repository.](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby)
-- 🤖 Japanese chatbot that analyzes and breaks down message meanings, toggles between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts display for known RTK Kanjis. This enhances learning by demonstrating the pronunciation and usage of RTK Kanjis you've learned. [Access through here.](https://rtkchat.vercel.app/)
-- ⛏️​​ Minecraft mod meant to complement agility based mods. The faster you can run, the higher you jump, the more weight you carry, the slower you are. But if you are fast and heavy, you hit like a truck.
-- 📠 Small system to send files from a computer with no wired or wireless options available to your local PC
-- 👻 Pokemon API consumer app in typescript just to have it as portfolio (most of my real projects are private repositories). [Access through here.](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/)
+
+- 🖼️ Create ASCII art and diagrams effortlessly. A simple tool for developers to
+  sketch mockups and communicate visually with AI.
+  [Try it out.](https://www.sketchtotext.com/)
+- 🈂️​ Application to learn the Hiragana and Katakana at the same time. Flashcard
+  based. [Go to the app.](https://learnthekana.vercel.app)
+- 🎸 Application to explore guitar chords IN ANY TUNING and play with them in a
+  virtual soundboard.
+  [Check repository.](https://github.com/pbldmngz/any-tune-guitar-chords-playground)
+- 🈵 Utilities to create Furigana subtitles.
+  [Check repository.](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby)
+- 🤖 Japanese chatbot that analyzes and breaks down message meanings, toggles
+  between Kanji and Hiragana, remembers preferred Kanji settings, and adjusts
+  display for known RTK Kanjis. This enhances learning by demonstrating the
+  pronunciation and usage of RTK Kanjis you've learned.
+  [Access through here.](https://rtkchat.vercel.app/)
+- ⛏️​​ Minecraft mod meant to complement agility based mods. The faster you can
+  run, the higher you jump, the more weight you carry, the slower you are. But
+  if you are fast and heavy, you hit like a truck.
+- 📠 Small system to send files from a computer with no wired or wireless
+  options available to your local PC
+- 👻 Pokemon API consumer app in typescript just to have it as portfolio (most
+  of my real projects are private repositories).
+  [Access through here.](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/)
 - 👹 Added electron to my toolbox (doing some Electron + React + Flask projects)
-- 🧠 A quite complicated task for an interview using nodes and links, created a way to visualize data by dates, order and time extension
+- 🧠 A quite complicated task for an interview using nodes and links, created a
+  way to visualize data by dates, order and time extension
 - 🌱 Resurected my codewars repository and added it to my pins
-- 🍕 Created a concept of a Firebase React application that allows restorants to post their menus online, in a pretty decent responsive formatting, with the "admin view" being capable of controling the prices, categories, descriptions and visibilities of the items. Colors can be changed too. [Check it out.](https://github.com/pbldmngz/menu-maker)
-- 🎮 Python application to remote control a Twich streamer's computer by typing commands in the chat. The streamer could use it as a way to make viewers directly impact the gameplay. Doesn't work on anti-cheat enabled games.
-- 🤬 Fun web app that makes a goat scream each time you mention something blacklisted. [Stop cursing.](https://github.com/pbldmngz/chernobyl)
+- 🍕 Created a concept of a Firebase React application that allows restorants to
+  post their menus online, in a pretty decent responsive formatting, with the
+  "admin view" being capable of controling the prices, categories, descriptions
+  and visibilities of the items. Colors can be changed too.
+  [Check it out.](https://github.com/pbldmngz/menu-maker)
+- 🎮 Python application to remote control a Twich streamer's computer by typing
+  commands in the chat. The streamer could use it as a way to make viewers
+  directly impact the gameplay. Doesn't work on anti-cheat enabled games.
+- 🤬 Fun web app that makes a goat scream each time you mention something
+  blacklisted. [Stop cursing.](https://github.com/pbldmngz/chernobyl)
 
 ---
 
@@ -49,8 +74,8 @@
 
 ---
 
-| GitHub Stats | Top Langs |
-| ----------- | ---: |
+| GitHub Stats                                                                                                                                                                                |                                                                                                                                                                                                 Top Langs |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbldmngz&theme=algolia&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/pbldmngz) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbldmngz&theme=algolia&count_private=true&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---

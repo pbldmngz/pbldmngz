@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pablo%20Domínguez&fontSize=40&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Jack%20of%20All%20Trades&descAlignY=60" alt="banner"/>
 </p>
 
-<!-- <!-- Typing SVG --> -->
+<!-- <!-- Typing SVG -->
 <!-- <p align="center">
   <a href="https://www.pablodominguez.net">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+I'm+Pablo+Domínguez;Fullstack+Developer;Jack+of+All+Trades;Always+Learning+New+Things"/>

@@ -1,143 +1,93 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pablo%20Domínguez&fontSize=40&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Jack%20of%20All%20Trades&descAlignY=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pablo%20Domínguez&fontSize=40&fontAlignY=40&desc=Fullstack%20Developer&descAlignY=60" alt="Pablo Domínguez"/>
 </p>
 
-<!-- <!-- Typing SVG -->
-<!-- <p align="center">
-  <a href="https://www.pablodominguez.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+I'm+Pablo+Domínguez;Fullstack+Developer;Jack+of+All+Trades;Always+Learning+New+Things"/>
-  </a>
-</p> -->
+<p align="center">
+  I build apps for singers, songwriters, actors and language learners. Full list on <a href="https://dominguezpablo.com/projects">dominguezpablo.com</a>.
+</p>
 
----
-
-## 🚀 My Projects
+## Apps
 
 <table>
   <tr valign="top">
-    <td align="center" width="33%">
-      <a href="https://www.sketchtotext.com/">
-        <img src="https://img.shields.io/badge/ASCII%20Art%20Sketcher-LIVE-0078D4?style=for-the-badge&logo=github" />
-        <br />
-        <sub><b>sketchtotext.com</b></sub>
-      </a>
-      <br><br>
-      <sup>Create ASCII art and diagrams effortlessly. Sketch mockups and communicate visually with AI.</sup>
+    <td align="center" width="20%">
+      <a href="https://scalita.com"><img src="assets/scalita.png" width="64" alt="Scalita"/></a><br/>
+      <b><a href="https://scalita.com">Scalita</a></b><br/>
+      <sub>Vocal warm-ups and scales on a real piano, in your range.</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.scalita.app"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://learnthekana.vercel.app">
-        <img src="https://img.shields.io/badge/Learn%20the%20Kana-LIVE-0078D4?style=for-the-badge&logo=vercel" />
-        <br />
-        <sub><b>Learn the Kana</b></sub>
-      </a>
-      <br><br>
-      <sup>Learn Hiragana and Katakana together with flashcards.</sup>
+    <td align="center" width="20%">
+      <a href="https://melodoodle.io"><img src="assets/melodoodle.png" width="64" alt="Melodoodle"/></a><br/>
+      <b><a href="https://melodoodle.io">Melodoodle</a></b><br/>
+      <sub>Pick chords, write lyrics, record takes and catch the song idea before it slips away.</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=app.melodoodle.www.twa"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
+      <a href="https://melodoodle.io"><img src="https://img.shields.io/badge/Web-414141?logo=googlechrome&logoColor=white" alt="Web"/></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://rtkchat.vercel.app/">
-        <img src="https://img.shields.io/badge/RTK%20Chat-LIVE-0078D4?style=for-the-badge&logo=vercel" />
-        <br />
-        <sub><b>RTK Chat</b></sub>
-      </a>
-      <br><br>
-      <sup>Japanese chatbot for learning and analyzing Kanji and Hiragana.</sup>
+    <td align="center" width="20%">
+      <a href="https://reciteflow.com"><img src="assets/reciteflow.png" width="64" alt="ReciteFlow"/></a><br/>
+      <b><a href="https://reciteflow.com">ReciteFlow</a></b><br/>
+      <sub>Memorize lyrics, scripts and speeches word for word, in order.</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.pbldmngz.reciteflow"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
+      <a href="https://reciteflow.vercel.app"><img src="https://img.shields.io/badge/Web%20(v1)-414141?logo=googlechrome&logoColor=white" alt="Web version"/></a>
     </td>
-  </tr>
-  <tr valign="top">
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/any-tune-guitar-chords-playground">
-        <img src="https://img.shields.io/badge/Any%20Tune%20Guitar%20Chords-REPO-FF8800?style=for-the-badge&logo=github" />
-        <br />
-        <sub><b>Any Tune Guitar Chords</b></sub>
-      </a>
-      <br><br>
-      <sup>Explore guitar chords in any tuning and play with them in a virtual soundboard.</sup>
+    <td align="center" width="20%">
+      <a href="https://www.chatnoteai.com"><img src="assets/chatnote.png" width="64" alt="ChatNote"/></a><br/>
+      <b><a href="https://www.chatnoteai.com">ChatNote</a></b><br/>
+      <sub>Fast, local note taking and organizing. AI is optional.</sub><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.chatnoteai"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby">
-        <img src="https://img.shields.io/badge/Furigana%20Subtitles-REPO-FF8800?style=for-the-badge&logo=github" />
-        <br />
-        <sub><b>Furigana Subtitles</b></sub>
-      </a>
-      <br><br>
-      <sup>Utilities to create Furigana subtitles.</sup>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/menu-maker">
-        <img src="https://img.shields.io/badge/Menu%20Maker-REPO-FF8800?style=for-the-badge&logo=firebase" />
-        <br />
-        <sub><b>Menu Maker</b></sub>
-      </a>
-      <br><br>
-      <sup>Firebase React app for restaurants to post and manage menus online.</sup>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight">
-        <img src="https://img.shields.io/badge/Minecraft%20Agility%20Mod-REPO-FF8800?style=for-the-badge&logo=minecraft" />
-        <br />
-        <sub><b>Minecraft Agility Mod</b></sub>
-      </a>
-      <br><br>
-      <sup>Mod to complement agility-based mods. Speed, weight, and power mechanics.</sup>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/Screen-To-Text">
-        <img src="https://img.shields.io/badge/File%20Sender-REPO-FF8800?style=for-the-badge&logo=github" />
-        <br />
-        <sub><b>File Sender</b></sub>
-      </a>
-      <br><br>
-      <sup>Send files from computers with no network options to your local PC.</sup>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/pbldmngz/codewars">
-        <img src="https://img.shields.io/badge/Codewars%20Repo-REPO-FF8800?style=for-the-badge&logo=codewars" />
-        <br />
-        <sub><b>Codewars</b></sub>
-      </a>
-      <br><br>
-      <sup>Resurrected and pinned my Codewars repository.</sup>
+    <td align="center" width="20%">
+      <a href="https://takekeeper.com"><img src="assets/takekeeper.svg" width="64" alt="Takekeeper"/></a><br/>
+      <b><a href="https://takekeeper.com">Takekeeper</a></b><br/>
+      <sub>Take triage for voice actors. Split a long session into takes and sort them by keyboard.</sub><br/><br/>
+      <a href="https://takekeeper.com"><img src="https://img.shields.io/badge/Web-414141?logo=googlechrome&logoColor=white" alt="Web"/></a>
     </td>
   </tr>
 </table>
 
----
+## Web tools and mods
 
-## 🛠️ Languages & Tools
+| Project | What it does | Link |
+| --- | --- | --- |
+| [Sketch to Text](https://www.sketchtotext.com) | Turn sketches into ASCII art so LLMs get your layout on the first prompt. | [Website](https://www.sketchtotext.com) |
+| [LingoQuest](https://www.lingo.quest) | Language learning with several methods in one place. In progress. | [Website](https://www.lingo.quest) |
+| [Namira's Gluttony](https://www.nexusmods.com/oblivionremastered/mods/5753) | Oblivion Remastered mod: steal skills and stats. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5753) |
+| [Checkpoint Autosave](https://www.nexusmods.com/oblivionremastered/mods/5755) | Oblivion Remastered mod: autosaves after fights, reloads the newest save on death. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5755) |
+
+## Open source
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| [Learn the Kana](https://github.com/pbldmngz/Hiragana_Katanaka_Learning_Flashcards) | Hiragana and Katakana flashcards, both sets at once. | [Live](https://learnthekana.vercel.app) · [Code](https://github.com/pbldmngz/Hiragana_Katanaka_Learning_Flashcards) |
+| [Japanese RTK Chatbot](https://github.com/pbldmngz/japanese-rtk-chatbot-frontend) | Chat in Japanese limited to the kanji you already know. | [Live](https://rtkchat.vercel.app) · [Frontend](https://github.com/pbldmngz/japanese-rtk-chatbot-frontend) · [Backend](https://github.com/pbldmngz/japanese-rtk-chatbot-backend) |
+| [Any Tune Guitar Chords](https://github.com/pbldmngz/any-tune-guitar-chords-playground) | Guitar chords in any tuning, with a virtual soundboard. | [Code](https://github.com/pbldmngz/any-tune-guitar-chords-playground) |
+| [Furigana Subtitle Generator](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby) | Video-editor subtitles with furigana over the kanji. | [Code](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby) |
+| [Realistic Agility Mod](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) | Minecraft mod where armor weight changes speed, jump and damage. | [Code](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) |
+| [Visual Data Transfer](https://github.com/pbldmngz/Screen-To-Text) | Get files off a computer with no network, using only its screen. | [Code](https://github.com/pbldmngz/Screen-To-Text) |
+| [Menu Maker](https://github.com/pbldmngz/menu-maker) | Free customizable digital menus for small restaurants. | [Code](https://github.com/pbldmngz/menu-maker) |
+| [Pokémon API Consumer](https://github.com/pbldmngz/react-typescript-pokemon-api-consumer) | React and TypeScript showcase with Jest tests. | [Live](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/) · [Code](https://github.com/pbldmngz/react-typescript-pokemon-api-consumer) |
+
+## Work
+
+Client and in-house projects. Code is not public.
+
+- **[Screaming Circuits](https://www.screamingcircuits.com)**: landing page and major work on the quotation app.
+- **Test Traceability System**: real-time data collection and statistical analysis for a manufacturing plant.
+- **Purchase Requisition App**: one platform for the whole parts buying process.
+
+## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,react,java,mongodb,firebase,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,tailwind,supabase,firebase,python,vercel" alt="Flutter, Dart, TypeScript, Next.js, React, Tailwind, Supabase, Firebase, Python, Vercel"/>
 </p>
 
----
-
-## 📊 GitHub Stats
+## Elsewhere
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pbldmngz&theme=algolia" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbldmngz&theme=algolia&langs_count=6&layout=compact" alt="Top Langs" height="180"/>
+  <a href="https://dominguezpablo.com"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/dominguezmedina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@pablodm9"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="https://www.codewars.com/users/pbldmngz"><img src="https://img.shields.io/badge/Codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="https://www.patreon.com/c/PabloDominguez"><img src="https://img.shields.io/badge/Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
 </p>
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dominguezmedina"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/pbldmngz"><img src="https://img.shields.io/badge/Codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@pablodm9"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <!-- <a href="https://www.pablodominguez.net"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=github" /></a> -->
-  <a href="https://www.patreon.com/c/PabloDominguez"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ff424d?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-</p>
-
----
-
-<!--
-[Anurag's GitHub stats link, if you are reading this, go check it!]: https://github.com/anuraghazra/github-readme-stats
-[website]: https://www.pablodominguez.net
-[linkedin]: https://www.linkedin.com/in/dominguezmedina
--->

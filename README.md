@@ -3,56 +3,56 @@
 </p>
 
 <p align="center">
-  I build apps for singers, songwriters, actors and language learners. Full list on <a href="https://dominguezpablo.com/projects">dominguezpablo.com</a>.
+  I build apps for singers, songwriters and language learners. Full list on <a href="https://dominguezpablo.com/projects">dominguezpablo.com</a>.
 </p>
 
 ## Apps
 
 <table>
   <tr valign="top">
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://scalita.com"><img src="assets/scalita.png" width="64" alt="Scalita"/></a><br/>
       <b><a href="https://scalita.com">Scalita</a></b><br/>
       <sub>Vocal warm-ups and scales on a real piano, in your range.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.scalita.app"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://melodoodle.io"><img src="assets/melodoodle.png" width="64" alt="Melodoodle"/></a><br/>
       <b><a href="https://melodoodle.io">Melodoodle</a></b><br/>
       <sub>Pick chords, write lyrics, record takes and catch the song idea before it slips away.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=app.melodoodle.www.twa"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
       <a href="https://melodoodle.io"><img src="https://img.shields.io/badge/Web-414141?logo=googlechrome&logoColor=white" alt="Web"/></a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://reciteflow.com"><img src="assets/reciteflow.png" width="64" alt="ReciteFlow"/></a><br/>
       <b><a href="https://reciteflow.com">ReciteFlow</a></b><br/>
       <sub>Memorize lyrics, scripts and speeches word for word, in order.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.pbldmngz.reciteflow"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
       <a href="https://reciteflow.vercel.app"><img src="https://img.shields.io/badge/Web%20(v1)-414141?logo=googlechrome&logoColor=white" alt="Web version"/></a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://www.chatnoteai.com"><img src="assets/chatnote.png" width="64" alt="ChatNote"/></a><br/>
       <b><a href="https://www.chatnoteai.com">ChatNote</a></b><br/>
       <sub>Fast, local note taking and organizing. AI is optional.</sub><br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.chatnoteai"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white" alt="Google Play"/></a>
     </td>
-    <td align="center" width="20%">
-      <a href="https://takekeeper.com"><img src="assets/takekeeper.svg" width="64" alt="Takekeeper"/></a><br/>
-      <b><a href="https://takekeeper.com">Takekeeper</a></b><br/>
-      <sub>Take triage for voice actors. Split a long session into takes and sort them by keyboard.</sub><br/><br/>
-      <a href="https://takekeeper.com"><img src="https://img.shields.io/badge/Web-414141?logo=googlechrome&logoColor=white" alt="Web"/></a>
-    </td>
   </tr>
 </table>
 
-## Web tools and mods
+## Web tools
 
 | Project | What it does | Link |
 | --- | --- | --- |
 | [Sketch to Text](https://www.sketchtotext.com) | Turn sketches into ASCII art so LLMs get your layout on the first prompt. | [Website](https://www.sketchtotext.com) |
-| [LingoQuest](https://www.lingo.quest) | Language learning with several methods in one place. In progress. | [Website](https://www.lingo.quest) |
-| [Namira's Gluttony](https://www.nexusmods.com/oblivionremastered/mods/5753) | Oblivion Remastered mod: steal skills and stats. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5753) |
-| [Checkpoint Autosave](https://www.nexusmods.com/oblivionremastered/mods/5755) | Oblivion Remastered mod: autosaves after fights, reloads the newest save on death. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5755) |
+| [Takekeeper](https://takekeeper.com) | Take triage for voice actors. Split a long session into takes and sort them by keyboard. | [Website](https://takekeeper.com) |
+
+## Mods
+
+| Mod | What it does | Links |
+| --- | --- | --- |
+| [Namira's Gluttony](https://www.nexusmods.com/oblivionremastered/mods/5753) | Oblivion Remastered: steal skills and stats. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5753) |
+| [Checkpoint Autosave](https://www.nexusmods.com/oblivionremastered/mods/5755) | Oblivion Remastered: autosaves after fights, reloads the newest save on death. | [Nexus Mods](https://www.nexusmods.com/oblivionremastered/mods/5755) |
+| [Realistic Agility Mod](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) | Minecraft: armor weight changes speed, jump and damage. | [Code](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) |
 
 ## Open source
 
@@ -62,18 +62,9 @@
 | [Japanese RTK Chatbot](https://github.com/pbldmngz/japanese-rtk-chatbot-frontend) | Chat in Japanese limited to the kanji you already know. | [Live](https://rtkchat.vercel.app) · [Frontend](https://github.com/pbldmngz/japanese-rtk-chatbot-frontend) · [Backend](https://github.com/pbldmngz/japanese-rtk-chatbot-backend) |
 | [Any Tune Guitar Chords](https://github.com/pbldmngz/any-tune-guitar-chords-playground) | Guitar chords in any tuning, with a virtual soundboard. | [Code](https://github.com/pbldmngz/any-tune-guitar-chords-playground) |
 | [Furigana Subtitle Generator](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby) | Video-editor subtitles with furigana over the kanji. | [Code](https://github.com/pbldmngz/generate-furigana-subtitles-from-ruby) |
-| [Realistic Agility Mod](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) | Minecraft mod where armor weight changes speed, jump and damage. | [Code](https://github.com/pbldmngz/Minecraft_Mod_RealisticArmorWeight) |
 | [Visual Data Transfer](https://github.com/pbldmngz/Screen-To-Text) | Get files off a computer with no network, using only its screen. | [Code](https://github.com/pbldmngz/Screen-To-Text) |
 | [Menu Maker](https://github.com/pbldmngz/menu-maker) | Free customizable digital menus for small restaurants. | [Code](https://github.com/pbldmngz/menu-maker) |
 | [Pokémon API Consumer](https://github.com/pbldmngz/react-typescript-pokemon-api-consumer) | React and TypeScript showcase with Jest tests. | [Live](https://pbldmngz.github.io/react-typescript-pokemon-api-consumer/) · [Code](https://github.com/pbldmngz/react-typescript-pokemon-api-consumer) |
-
-## Work
-
-Client and in-house projects. Code is not public.
-
-- **[Screaming Circuits](https://www.screamingcircuits.com)**: landing page and major work on the quotation app.
-- **Test Traceability System**: real-time data collection and statistical analysis for a manufacturing plant.
-- **Purchase Requisition App**: one platform for the whole parts buying process.
 
 ## Tools
 

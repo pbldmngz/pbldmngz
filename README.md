@@ -45,6 +45,10 @@
 | --- | --- | --- |
 | [Sketch to Text](https://www.sketchtotext.com) | Turn sketches into ASCII art so LLMs get your layout on the first prompt. | [Website](https://www.sketchtotext.com) |
 | [Takekeeper](https://takekeeper.com) | Take triage for voice actors. Split a long session into takes and sort them by keyboard. | [Website](https://takekeeper.com) |
+| [Vocal Range Test](https://scalita.com/tools/vocal-range-test/) | Sing your lowest and highest notes and see your range. By Scalita. | [Website](https://scalita.com/tools/vocal-range-test/) |
+| [Sing-in-Tune Test](https://scalita.com/tools/sing-in-tune-test/) | Hear a note, sing it back, see how many cents off you landed. By Scalita. | [Website](https://scalita.com/tools/sing-in-tune-test/) |
+| [Voice Break Finder](https://scalita.com/tools/voice-break-finder/) | Sing along as the piano climbs and mark where your voice shifts. By Scalita. | [Website](https://scalita.com/tools/voice-break-finder/) |
+| [Warm-Up Piano](https://scalita.com/tools/warm-up-piano/) | Vocal warm-up scales on a real piano, in your range. By Scalita. | [Website](https://scalita.com/tools/warm-up-piano/) |
 
 ## Mods
 
